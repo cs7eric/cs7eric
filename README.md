@@ -23,7 +23,7 @@
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/cs7eric?label=follow%20me&style=social)](https://github.com/cs7eric/)
 - 🎣 Fun fact: Programming, Reading, watching movies, traveling,  thinking
 
-**「Stay hungry，Stay foolish.」** ❤️
+**「要更努力，走向属于自己的山」** ❤️
 
 </td>
 <td width="42%">
