@@ -33,5 +33,8 @@ jobs:
     - name: Push Changes
       uses: ad-m/github-push-action@v0.6.0
       with:
+        repository: cs7eric/cs7eric
+        ssh-key: cccs7-windows
+        ssh-known-hosts: SHA256:X3r8UorTE8aaes3DK1g/307dLvR+Zgr+Zck+QEbbulc
         branch: main
         github_token: ${{ secrets.CS7ERIC_ACCESS_TOKENS }}
