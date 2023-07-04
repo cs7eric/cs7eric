@@ -9,8 +9,6 @@
     \ ___,_|\_/   \_/               \____/\___\___|___/\_/                                         
                                                               
  <br>
-![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
-
 
 <table>
 <tr>
@@ -19,11 +17,11 @@
 
 - 🤖 I’m currently a student studying in zhengzhou, China.
 - 👨‍💻 I’m currently learning Java，Spring，Linux，JS 、Vue、etc...
-- ✍️ [MyBlog](https://blog.cccs7.icu)
-- 💬 Ask me about Anything you want~
+- ✍️ [This is cccs7's Blog](https://blog.cccs7.icu)
+- 💬 You could talk with me about Anything you want~
 - 📫 Reach me: [email](mailto:csq020611@gmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/cs7eric?label=follow%20me&style=social)](https://github.com/cs7eric/)
-- 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
+- 🎣 Fun fact: Programming, Reading, watching movies, traveling,  thinking
 
 **「Stay hungry，Stay foolish.」** ❤️
 
