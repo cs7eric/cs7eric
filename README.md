@@ -27,7 +27,7 @@
 
 </td>
 <td width="42%">
-<img src="https://github.com/cs7eric/cs7eric/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="280">
+<img src="https://cs7eric-image.oss-cn-hangzhou.aliyuncs.com/images/20220530204120_9f6c6.thumb.1000_0.gif" width="500" height="280">
 </td>
 </tr>
 </table>
