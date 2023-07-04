@@ -1,5 +1,14 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m cccs7/cs7eric
+<br>
 
+             ____________           _____               ______
+      ____  |___  /___  /          /  __ \             |___  / 
+     / __ \    / /   / /   ______  | /  \/ ___ ___ ___    / / 
+    / / _` |  / /   / /   |______| | |    / __/ __/ __|  / /  
+    | | (_| |./ /  ./ /             | \__/\ (_| (__\__ \./ /   
+    \ ___,_|\_/   \_/               \____/\___\___|___/\_/                                         
+                                                              
+ <br>
 ![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
 
 
@@ -44,7 +53,7 @@
   
   ![cs7eric's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cs7eric&layout=compact&hide_border=true&langs_count=10)
 
-#### ✏️ [Recent Blog](https://chegva.com)
+#### ✏️ [Recent Blog](https://blog.cccs7.icu)
 
 - [MacBook M1 使用 Android 模拟器 - 2023-07-01](https://chegva.com/5739.html)
 - [Mysql innobackupex物理备份与mysqldump逻辑备份使用 - 2023-06-30](https://chegva.com/5736.html)
