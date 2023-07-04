@@ -53,11 +53,13 @@
 
 #### ✏️ [Recent Blog](https://blog.cccs7.icu)
 
-- [MacBook M1 使用 Android 模拟器 - 2023-07-01](https://chegva.com/5739.html)
-- [Mysql innobackupex物理备份与mysqldump逻辑备份使用 - 2023-06-30](https://chegva.com/5736.html)
-- [Shell脚本调用ansible执行批量操作 - 2023-06-24](https://chegva.com/5725.html)
-- [游戏里的无聊人生(4)——抢榜 - 2023-06-02](https://chegva.com/5731.html)
-- [运维工作核心关注点与运维军规 - 2023-06-02](https://chegva.com/5727.html)
+- [less](https://blog.cccs7.icu//2023/07/03/less/)
+- [Ajax](https://blog.cccs7.icu//2023/07/03/Ajax/)
+- [JavaScript进阶](https://blog.cccs7.icu//2023/07/03/JavaScript%E8%BF%9B%E9%98%B6/)
+- [Web APIs](https://blog.cccs7.icu//2023/07/01/Web-APIs/)
+- [JavaScript基础](https://blog.cccs7.icu//2023/07/01/JavaScript%E5%9F%BA%E7%A1%80/)
+- [HTML5与CSS3新增特性](https://blog.cccs7.icu//2023/07/01/H5C3%E6%96%B0%E7%89%B9%E6%80%A7/)
+- [css高级](https://blog.cccs7.icu//2023/06/30/css%E9%AB%98%E7%BA%A7/)
 
 </td>
 </tr>
