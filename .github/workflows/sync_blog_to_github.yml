@@ -2,6 +2,7 @@ name: Sync Blog Posts to GitHub Pages
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
