@@ -36,7 +36,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 # 找到要添加新文章的位置
 start_index = 55
-end_index = 62
+end_index = 61
 
 # 将新的文章添加到指定位置
 new_lines = lines[:start_index] + article_list + lines[end_index+1:]

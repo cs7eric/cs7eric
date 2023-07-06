@@ -46,6 +46,8 @@
 
 ![](https://raw.githubusercontent.com/cs7eric/cs7eric/main/assets/github-contribution-grid-snake.svg)
 
+
+
 </td>
 <td valign="top"  width="42%">
   
@@ -60,6 +62,8 @@
 - [Ajax](https://blog.cccs7.icu//2023/07/03/Ajax/)
 - [JavaScript进阶](https://blog.cccs7.icu//2023/07/03/JavaScript%E8%BF%9B%E9%98%B6/)
 - [Web APIs](https://blog.cccs7.icu//2023/07/01/Web-APIs/)
+
+
 </td>
 </tr>
 </table>
