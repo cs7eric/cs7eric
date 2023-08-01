@@ -1,6 +1,9 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m cccs7/cs7eric
 <br>
-<img src="https://cs7eric-image.oss-cn-hangzhou.aliyuncs.com/images/image-20230801133618884.png>                                                    
+<td>
+  <img src="https://cs7eric-image.oss-cn-hangzhou.aliyuncs.com/images/image-20230801133618884.png width="1200" height="350>
+</td>
+                                                
  <br>
 
 <table>
