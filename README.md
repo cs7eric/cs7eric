@@ -1,11 +1,6 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m cccs7/cs7eric
 <br>
-| c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  ______  ______  ______  ______  _____<br>
-| c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  /\  ___\/\  ___\/\  ___\/\  ___\/\____ \<br>
-| c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \ \ \___\ \ \___\ \ \___\ \  __ \/___ \ \<br>  
-| s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \ \_____\ \_____\ \_____\  ___\ \   \ \_\<br>
-| 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \/_____/\/_____/\/_____/\/____\/    \/_/                                         
-_________________________________________________________________________________________________________________________________________                                                              
+<img src="https://cs7eric-image.oss-cn-hangzhou.aliyuncs.com/images/image-20230801133618884.png>                                                    
  <br>
 
 <table>
